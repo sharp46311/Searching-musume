@@ -1,0 +1,8 @@
+/node_modules
+/vendor
+/public/build
+.env
+src/server/**/*
+!src/server/.gitkeep
+src/front/**/*
+!src/front/.gitkeep
